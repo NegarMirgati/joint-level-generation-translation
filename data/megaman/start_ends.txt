@@ -1,0 +1,11 @@
+level, start, end
+1, image-00000001.png, image-00000218.png
+2, image-00000246.png, image-00000534.png
+3, image-00000535.png, image-00000947.png
+4, image-00000949.png, image-00001181.png
+5, image-00001182.png, image-00001350.png
+6, image-00001351.png, image-00001588.png
+7, image-00001589.png, image-00001797.png
+8, image-00001798.png, image-00002027.png
+9, image-00002028.png, image-00002135.png
+10, image-00002136.png, image-00002242.png
